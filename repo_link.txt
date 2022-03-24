@@ -1,0 +1,10 @@
+Segue o link para o repositório forkado:
+https://github.com/Giatroo/MAC0218-MiniEP1
+
+Foi-se criado dois arquivos adicionais aux.c e aux.h e colocados nos diretórios
+devidos. Nada muda na compilação do programa, basca usar
+$ make
+
+Lucas Paiolla Forastiere
+11221911
+
